@@ -32,3 +32,4 @@ raio = int(input('digite o valor do raio: '))
 area = (raio) ** 2 * 3.14
 print('o valor da area é:', area)
 # A área de um círculo é pi vezes o raio elevado ao quadrado
+#a
