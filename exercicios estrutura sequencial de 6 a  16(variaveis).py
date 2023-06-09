@@ -139,3 +139,4 @@ obs: no momento so consegui fazer ate o 13 sozinho,o exercicio 14,15 e 16 tive q
 ate consigo entender,mas o 15 e 16 ja reli algumas vezes e mesmo assim n entendo,se puder me ajudar a entender fico muito
 agradecido.
 '''
+#b
